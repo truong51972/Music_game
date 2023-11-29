@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(693,5): warning MSB6008: Forcing a rebuild of all sources due to an error with the tracking logs. The cloud operation was unsuccessful.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(693,5): warning MSB6008: 
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(693,5): warning MSB6008: Forcing a rebuild of all sources due to an error with the tracking logs. The cloud operation was unsuccessful.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(693,5): warning MSB6008: 
+  main.cpp
+C:\Users\tranq\OneDrive\Documents\VS code\Game Project Test\Game Project Test\main.cpp(698,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tranq\OneDrive\Documents\VS code\Game Project Test\Game Project Test\main.cpp(701,32): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tranq\OneDrive\Documents\VS code\Game Project Test\Game Project Test\main.cpp(724,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tranq\OneDrive\Documents\VS code\Game Project Test\Game Project Test\main.cpp(727,32): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  LINK : C:\Users\tranq\OneDrive\Documents\VS code\Game Project Test\x64\Debug\Game Project Test.exe not found or not built by the last incremental link; performing full link
+  Game Project Test.vcxproj -> C:\Users\tranq\OneDrive\Documents\VS code\Game Project Test\x64\Debug\Game Project Test.exe

@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\tranq\OneDrive\Documents\VS code\Game Project Test\Game Project Test\main.cpp(721,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tranq\OneDrive\Documents\VS code\Game Project Test\Game Project Test\main.cpp(724,32): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tranq\OneDrive\Documents\VS code\Game Project Test\Game Project Test\main.cpp(747,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tranq\OneDrive\Documents\VS code\Game Project Test\Game Project Test\main.cpp(750,32): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tranq\OneDrive\Documents\VS code\Game Project Test\Game Project Test\main.cpp(1011,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tranq\OneDrive\Documents\VS code\Game Project Test\Game Project Test\main.cpp(1014,32): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  0 of 152 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Game Project Test.vcxproj -> C:\Users\tranq\OneDrive\Documents\VS code\Game Project Test\x64\Release\Game music.exe
