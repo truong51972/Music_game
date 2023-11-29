@@ -1,1 +1,1 @@
-# Music_game
+This is my Game Project. I have completed it while studying in 1 month. And it placed 3th in entrance competition.
